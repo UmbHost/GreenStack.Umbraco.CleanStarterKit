@@ -4,7 +4,7 @@ A GitHub template repository for Umbraco 17 with the Clean Starter Kit, preconfi
 
 ## What's included
 
-- Umbraco 17 on .NET 10 with the Clean Starter Kit
+- Umbraco 17 on .NET 10 with the [Clean Starter Kit](https://marketplace.umbraco.com/package/clean)
 - Forwarded headers middleware for Traefik proxy
 - HTTPS runtime validator removed (SSL terminated by GreenStack)
 - Data protection keys persisted to `/app/keys` in production
