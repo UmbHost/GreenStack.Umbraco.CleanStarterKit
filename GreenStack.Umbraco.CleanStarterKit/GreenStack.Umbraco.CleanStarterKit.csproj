@@ -10,7 +10,7 @@
     <PackageReference Include="Clean" Version="7.0.8" />
     <PackageReference Include="Umbraco.Cms" Version="17.8.1" />
     <PackageReference Include="Umbraco.Cms.DevelopmentMode.Backoffice" Version="17.8.1" />
-    <PackageReference Include="UmbHost.GreenStack.Umbraco.Configuration" Version="1.1.0" />
+    <PackageReference Include="UmbHost.GreenStack.Umbraco.Configuration" Version="1.2.0" />
   </ItemGroup>
 
   <ItemGroup>
